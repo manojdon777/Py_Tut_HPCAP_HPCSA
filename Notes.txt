@@ -1,0 +1,66 @@
+compiler based programs - c, c++ java
+interpreted based program - Python , scripting langaue
+Pyton - > compiler based, interpreted based, scripting langaue
+	Everyhing in python is classes (OOPS)
+	Python is not 100% OOPS baes prog lanaguages
+Anything taken from K/B is always string
+	String is said to be safest data type
+	
+	new line ("\n") is default in print of python -- end=
+	space (" ") is default for multi arguments in print of python -- sep=
+
+# 100 < 100 is always false
+# 100 = 100	is true
+# 100 <= 100	is true
+# 100 >= 100	is true
+
+Operators:
+    Arithmetic Operators
+    Comparison (Relational) Operators
+    Assignment Operators
+    Logical Operators
+    Bitwise Operators
+    Membership Operators
+    Identity Operators
+    
+
+Mutable and Immutable
+
+Immutable = 'tuple' object does not support item assignment
+
+
+Mutable -- you can find editable function
+	Slow
+	memroy high
+	
+Immutable -- you can't find editable function
+	fast
+	memory low
+	
+List
+	empty
+		list1 = []
+		list2 = list()
+	
+Tuple
+	empty
+		tup1 = ()
+		tup2 = tuple()
+	
+Set
+	empty
+		tup1 = set()
+	dupliactes not allowed
+		
+Dictionary
+	empty
+		dict1 = {}
+		dict2 = dict()		
+		
+		
+string : Ordered,  Immutable, Duplicates are allowed
+List   : Ordered,  Mutable,   Duplicates are allowed
+Tuple  : Ordered,  Immuatble, Duplicates are allowed
+Set    : Unorderd, Mutable,   Duplicates are not allowed
+	
+
